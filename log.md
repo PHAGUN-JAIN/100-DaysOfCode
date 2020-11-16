@@ -5,7 +5,7 @@
 
 **Today's Progress**: implemented merge sort algorithim in c++ language
 
-**Thoughts** 
+**Thoughts**: 
 **Link(s) to work**
 1. [MergeSort implementation](https://github.com/PHAGUN-JAIN/Algorithms/blob/local/Mergesort/MergeSortPJ.cpp)
 
