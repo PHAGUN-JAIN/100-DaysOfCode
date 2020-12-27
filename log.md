@@ -9,3 +9,14 @@
 **Link(s) to work**
 1. [MergeSort implementation](https://github.com/PHAGUN-JAIN/Algorithms/blob/local/Mergesort/MergeSortPJ.cpp)
 
+### Day 2-3: November 18       November 19
+
+**Today's Progress**: implemented Quick sort algorithim in c++ language
+
+### Day 4: December 27,Sunday      
+
+**Today's Progress**: revisted old HTML and CSS 
+
+**Thoughts**: because of very long break towards my commitment, i feel low but resumed anyway, lets see how far can i make it
+**Link(s) to work**
+1. [Progress](https://github.com/PHAGUN-JAIN/UCD-Technical.github.io)
