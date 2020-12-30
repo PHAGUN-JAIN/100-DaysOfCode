@@ -19,3 +19,8 @@
 **Thoughts**: because of very long break towards my commitment, i feel low but resumed anyway, lets see how far can i make it<br>
 **Link(s) to work**
 1. [Progress](https://github.com/PHAGUN-JAIN/UCD-Technical.github.io)
+
+### Day 5-6:  December 28,Monday       December 29,Tuesday
+
+**Today's Progress**: Started Nodejs again revised some basics and wrote some simple modules.
+
