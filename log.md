@@ -25,3 +25,6 @@
 
 **Today's Progress**: Started Nodejs again revised some basics and wrote some simple modules.
 
+### Day 7-8:  December 30,Wednesday       December 31,Thursday
+
+**Today's Progress**: Still sticked to Nodejs learned more about modules, types of modules(internal, custom, remote), filesystm module, NPM(node package manager)
