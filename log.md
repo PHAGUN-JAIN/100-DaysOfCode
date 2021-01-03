@@ -28,3 +28,7 @@
 ### Day 7-8:  December 30,Wednesday       December 31,Thursday
 
 **Today's Progress**: Still sticked to Nodejs learned more about modules, types of modules(internal, custom, remote), filesystm module, NPM(node package manager)
+
+### Day 9-10:  Janurary 1, Friday     Janurary 2, Saturday
+
+**Today's Progress**: learned about asynchronous code in nodejs and got diverted by crypto explored crypto tech for whole day!
