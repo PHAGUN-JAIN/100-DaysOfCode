@@ -32,3 +32,7 @@
 ### Day 9-10:  Janurary 1, Friday     Janurary 2, Saturday
 
 **Today's Progress**: learned about asynchronous code in nodejs and got diverted by crypto explored crypto tech for whole day!
+
+### Day 11:  Janurary 3, Sunday
+
+**Today's Progress**: wrote server modules in nodej, used fs module with it. 
