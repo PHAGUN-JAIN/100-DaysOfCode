@@ -36,3 +36,11 @@
 ### Day 11:  Janurary 3, Sunday
 
 **Today's Progress**: wrote server modules in nodej, used fs module with it. 
+
+
+### Day 12-13:  Janurary 4, Monday     Janurary 5, Tuesday
+
+**Today's Progress**: learned more about linux, how to use vagrant and converting existing VM into vagrant boxfile 
+
+**Link(s) to work**
+1. [Progress](https://pastebin.com/ijZ5RKtg)
