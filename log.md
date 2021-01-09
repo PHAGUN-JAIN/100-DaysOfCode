@@ -44,3 +44,7 @@
 
 **Link(s) to work**
 1. [Progress](https://pastebin.com/ijZ5RKtg)
+
+### Day 14-17:  Janurary 6, Wednesday     Janurary 7, Thursday         Janurary 8, Friday      Janurary 9, Saturday
+
+**Today's Progress**: got a invitation from google cloud readiness program, enrolled in that specialization, currently learning GCP, put node on hold(once again)
