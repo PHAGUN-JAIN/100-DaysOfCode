@@ -48,3 +48,10 @@
 ### Day 14-17:  Janurary 6, Wednesday     Janurary 7, Thursday         Janurary 8, Friday      Janurary 9, Saturday
 
 **Today's Progress**: got a invitation from google cloud readiness program, enrolled in that specialization, currently learning GCP, put node on hold(once again)
+
+### Day 18-20:  Janurary 10,Sunday        Janurary 11, Monday           Janurary 12, Tuesday
+
+**Today's Progress**: continued on GCP course, also learnt about file permissions in linux(with number representation)
+
+**Link(s) to work**
+1. [Progress](https://github.com/PHAGUN-JAIN/program-practice/blob/master/MyNotes/File%20Permissions)
