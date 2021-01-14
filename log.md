@@ -55,3 +55,11 @@
 
 **Link(s) to work**
 1. [Progress](https://github.com/PHAGUN-JAIN/program-practice/blob/master/MyNotes/File%20Permissions)
+
+
+### Day 2:  Janurary 13, Wednesday
+
+**Today's Progress**: recreating my website competed the prototype.
+
+**Link(s) to work**
+1. [Prototype](https://www.figma.com/proto/53wR7oRhmroV4axhRytBs8/Phagun's-Online-Resume?node-id=0%3A3&scaling=contain)
