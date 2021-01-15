@@ -57,9 +57,23 @@
 1. [Progress](https://github.com/PHAGUN-JAIN/program-practice/blob/master/MyNotes/File%20Permissions)
 
 
-### Day 2:  Janurary 13, Wednesday
+### Day 21:  Janurary 13, Wednesday
 
 **Today's Progress**: recreating my website competed the prototype.
 
 **Link(s) to work**
 1. [Prototype](https://www.figma.com/proto/53wR7oRhmroV4axhRytBs8/Phagun's-Online-Resume?node-id=0%3A3&scaling=contain)
+
+### Day 22:  Janurary 14, Thursday
+
+**Today's Progress**: continued on my website, and did some sample programs
+
+**Link(s) to work**
+1. [this is private by the way](https://github.com/PHAGUN-JAIN/when-I-get-bored)
+
+### Day 23:  Janurary 15, Friday
+
+**Today's Progress**: setup the jdk, it was messingup with my brain for almost two days
+
+**Link(s) to work**
+1.[i wrote a dev post on how to set up ](https://dev.to/phagunjain/how-to-setup-java-in-windows-10-59kc)
