@@ -76,5 +76,12 @@
 **Today's Progress**: setup the jdk, it was messingup with my brain for almost two days
 
 **Link(s) to work**
-
 1.[i wrote a dev post on how to set up ](https://dev.to/phagunjain/how-to-setup-java-in-windows-10-59kc)
+
+### Day 24:  Janurary 16, Saturday
+
+**Today's Progress**: back to nodejs exploring library named discord.js
+
+
+**Link(s) to work**
+1. [Git Repo to discord bot](https://github.com/PHAGUN-JAIN/Creating-Bot)
