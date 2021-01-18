@@ -98,6 +98,13 @@
 **Link(s) to work**
 1. [Git Repo to discord bot](https://github.com/PHAGUN-JAIN/Creating-Bot)
 
+
 ### Day 25:  Janurary 17, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: practised java
+
+
+### Day 26:  Janurary 18, Monday
+
+**Today's Progress**: practised java, tried photoshop for cyber sentinel 
+
