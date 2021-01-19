@@ -88,7 +88,7 @@
 
 **Link(s) to work**
 
-1.[i wrote a dev post on how to set up ](https://dev.to/phagunjain/how-to-setup-java-in-windows-10-59kc)
+1. [i wrote a dev post on how to set up ](https://dev.to/phagunjain/how-to-setup-java-in-windows-10-59kc)
 
 
 ### Day 24:  Janurary 16, Saturday
@@ -108,3 +108,10 @@
 
 **Today's Progress**: practised java, tried photoshop for cyber sentinel 
 
+
+### Day 27:  Janurary 19, Tuesday
+
+**Today's Progress**: played with photoshop, made a responsive webpage which dont look good on mobile working on mobile version
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/UCD-Technical/tree/main/task-2)
