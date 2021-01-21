@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+![alt text](https://github.com/PHAGUN-JAIN/100-DaysOfCode/blob/main/aaaaaaaaaaaaaaaaaaaaab.jpg)
+
+
+
+
+
 
 ### Day 0-1: November 15, Sunday       November 16, Monday
 
