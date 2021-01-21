@@ -115,3 +115,11 @@
 
 **Link(s) to work**
 1. [Link to work](https://github.com/PHAGUN-JAIN/UCD-Technical/tree/main/task-2)
+
+
+### Day 28:  Janurary 20, Wednesday
+
+**Today's Progress**: practised java, constructors, reference variable.c++ 
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice/tree/master/JAVA)
