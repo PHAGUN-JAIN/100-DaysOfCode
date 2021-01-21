@@ -115,6 +115,7 @@
 
 **Link(s) to work**
 1. [Link to work](https://github.com/PHAGUN-JAIN/UCD-Technical/tree/main/task-2)
+2. [Link to work](https://github.com/Newbyes/Hackerrank/tree/main/PhagunJain/week-1)
 
 
 ### Day 28:  Janurary 20, Wednesday
