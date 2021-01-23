@@ -133,3 +133,19 @@
 
 **Link(s) to work**
 1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice/tree/master/JAVA)
+
+
+### Day 29:  Janurary 21, Thursday
+
+**Today's Progress**: nothing today
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice/blob/master/JAVA)
+
+
+### Day 30:  Janurary 22, Friday
+
+**Today's Progress**:shell scripts, debugegd some java code 
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice)
