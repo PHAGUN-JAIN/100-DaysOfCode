@@ -145,7 +145,26 @@
 
 ### Day 30:  Janurary 22, Friday
 
-**Today's Progress**:shell scripts, debugegd some java code 
+**Today's Progress**: shell scripts, debugegd some java code 
 
 **Link(s) to work**
 1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice)
+
+
+### Day 31:  Janurary 23, Saturday
+
+**Today's Progress**: worked on my webpage and practised java
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/Projects)
+2. [Link to work](https://github.com/PHAGUN-JAIN/program-practice)
+
+
+### Day 32:  Janurary 24, Sunday
+
+
+**Today's Progress**: JAVA
+
+**Link(s) to work**
+1. [Link to work](https://github.com/Newbyes/Hackerrank/tree/main/PhagunJain)
+2. [Link to work](https://github.com/PHAGUN-JAIN/program-practice)
