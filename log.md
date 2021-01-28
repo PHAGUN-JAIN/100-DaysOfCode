@@ -10,6 +10,7 @@
 
 ### Day 0-1: November 15, Sunday       November 16, Monday
 
+
 **Today's Progress**: implemented merge sort algorithim in c++ language
 
 **Link(s) to work**
@@ -18,10 +19,12 @@
 
 ### Day 2-3: November 18       November 19
 
+
 **Today's Progress**: implemented Quick sort algorithim in c++ language
 
 
-### Day 4: December 27,Sunday      
+### Day 4: December 27, Sunday      
+
 
 **Today's Progress**: revisted old HTML and CSS 
 
@@ -33,25 +36,30 @@
 
 ### Day 5-6:  December 28,Monday       December 29,Tuesday
 
+
 **Today's Progress**: Started Nodejs again revised some basics and wrote some simple modules.
 
 
 ### Day 7-8:  December 30,Wednesday       December 31,Thursday
+
 
 **Today's Progress**: Still sticked to Nodejs learned more about modules, types of modules(internal, custom, remote), filesystm module, NPM(node package manager)
 
 
 ### Day 9-10:  Janurary 1, Friday     Janurary 2, Saturday
 
+
 **Today's Progress**: learned about asynchronous code in nodejs and got diverted by crypto explored crypto tech for whole day!
 
 
 ### Day 11:  Janurary 3, Sunday
 
+
 **Today's Progress**: wrote server modules in nodej, used fs module with it. 
 
 
 ### Day 12-13:  Janurary 4, Monday     Janurary 5, Tuesday
+
 
 **Today's Progress**: learned more about linux, how to use vagrant and converting existing VM into vagrant boxfile 
 
@@ -61,10 +69,12 @@
 
 ### Day 14-17:  Janurary 6, Wednesday     Janurary 7, Thursday         Janurary 8, Friday      Janurary 9, Saturday
 
+
 **Today's Progress**: got a invitation from google cloud readiness program, enrolled in that specialization, currently learning GCP, put node on hold(once again)
 
 
 ### Day 18-20:  Janurary 10,Sunday        Janurary 11, Monday           Janurary 12, Tuesday
+
 
 **Today's Progress**: continued on GCP course, also learnt about file permissions in linux(with number representation)
 
@@ -74,6 +84,7 @@
 
 ### Day 21:  Janurary 13, Wednesday
 
+
 **Today's Progress**: recreating my website competed the prototype.
 
 **Link(s) to work**
@@ -82,6 +93,7 @@
 
 ### Day 22:  Janurary 14, Thursday
 
+
 **Today's Progress**: continued on my website, and did some sample programs
 
 **Link(s) to work**
@@ -89,6 +101,7 @@
 
 
 ### Day 23:  Janurary 15, Friday
+
 
 **Today's Progress**: setup the jdk, it was messingup with my brain for almost two days
 
@@ -99,6 +112,7 @@
 
 ### Day 24:  Janurary 16, Saturday
 
+
 **Today's Progress**: back to nodejs exploring library named discord.js
 
 **Link(s) to work**
@@ -107,10 +121,12 @@
 
 ### Day 25:  Janurary 17, Sunday
 
+
 **Today's Progress**: practised java
 
 
 ### Day 26:  Janurary 18, Monday
+
 
 **Today's Progress**: practised java, tried photoshop for cyber sentinel 
 
@@ -119,6 +135,7 @@
 
 
 ### Day 27:  Janurary 19, Tuesday
+
 
 **Today's Progress**: played with photoshop, made a responsive webpage which dont look good on mobile working on mobile version
 
@@ -129,6 +146,7 @@
 
 ### Day 28:  Janurary 20, Wednesday
 
+
 **Today's Progress**: practised java, constructors, reference variable.c++ 
 
 **Link(s) to work**
@@ -136,6 +154,7 @@
 
 
 ### Day 29:  Janurary 21, Thursday
+
 
 **Today's Progress**: nothing today
 
@@ -145,6 +164,7 @@
 
 ### Day 30:  Janurary 22, Friday
 
+
 **Today's Progress**: shell scripts, debugegd some java code 
 
 **Link(s) to work**
@@ -152,6 +172,7 @@
 
 
 ### Day 31:  Janurary 23, Saturday
+
 
 **Today's Progress**: worked on my webpage and practised java
 
@@ -168,3 +189,21 @@
 **Link(s) to work**
 1. [Link to work](https://github.com/Newbyes/Hackerrank/tree/main/PhagunJain)
 2. [Link to work](https://github.com/PHAGUN-JAIN/program-practice)
+
+
+### Day 33:  Janurary 25, Monday
+
+
+### Day 32:  Janurary 26, Tuesday
+
+
+### Day 32:  Janurary 27, Wednesday
+
+
+### Day 32:  Janurary 28, Thursday
+
+
+**Today's Progress**: learned basics of bash scripting, being strucked by internet ban
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice/tree/master/learnscript/scripts)
