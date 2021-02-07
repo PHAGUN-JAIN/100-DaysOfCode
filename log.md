@@ -221,7 +221,7 @@
 1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice/tree/master/learnscript/scripts)
 
 
-### Day 37:  Janurary 29, Friday  TO Feburary 6, Saturday
+### Day 37-46:  Janurary 29, Friday  TO Feburary 6, Saturday
 
 **Progress**: learned basic java
 
@@ -230,3 +230,11 @@
 **Link(s) to work**
 1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice/tree/master/JAVA)
 2.[Another article by me on JAVA](https://dev.to/phagunjain/error-could-not-find-or-load-main-class-1pb9)
+
+
+### Day 47:   Feburary 7, Sunday
+
+**Progress**:  made a webpage for ucd
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/UCD-Technical)
