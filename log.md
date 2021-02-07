@@ -193,30 +193,39 @@
 
 ### Day 33:  Janurary 25, Monday
 
-
 **Today's Progress**: learned some editing in photoshop
 
 **Link(s) to work**
 1. [Link to work](https://github.com/PHAGUN-JAIN/LEVEL-DESIGNING)
 2. [Link to work](https://github.com/PHAGUN-JAIN/program-practice/tree/master/JAVA)
-### Day 34:  Janurary 26, Tuesday
 
+
+### Day 34:  Janurary 26, Tuesday
 
 **Today's Progress**: photoshop
 
 **Link(s) to work**
 1. [Link to work](https://github.com/PHAGUN-JAIN/LEVEL-DESIGNING)
 
+
 ### Day 35:  Janurary 27, Wednesday
-
-
 
 **Today's Progress**: NOTHING today
 
-### Day 36:  Janurary 28, Thursday
 
+### Day 36:  Janurary 28, Thursday
 
 **Today's Progress**: learned basics of bash scripting, being strucked by internet ban
 
 **Link(s) to work**
 1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice/tree/master/learnscript/scripts)
+
+
+### Day 37:  Janurary 29, Friday  TO Feburary 6, Saturday
+
+**Progress**: learned basic java
+
+**Thoughts**: stopping of internet for almost 2 weeks was vaery annoying!
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice/tree/master/JAVA)
