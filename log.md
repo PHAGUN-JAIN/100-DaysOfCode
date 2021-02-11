@@ -238,3 +238,37 @@
 
 **Link(s) to work**
 1. [Link to work](https://github.com/PHAGUN-JAIN/UCD-Technical)
+
+
+### Day 48:   Feburary 8, Monday
+
+**Progress**:
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/BRM-JENKINS)
+
+
+### Day 49:   Feburary 9, Tuesday
+
+**Progress**:
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/Making-coffee)
+2. [Link to work](https://github.com/PHAGUN-JAIN/UCD-Technical)
+
+
+### Day 50:   Feburary 10, Thursday
+
+**Progress**:
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/LEVEL-DESIGNING)
+2. [Link to work](https://github.com/PHAGUN-JAIN/UCD-Technical)
+
+
+### Day 51:   Feburary 11, Friday
+
+**Progress**:
+
+**Link(s) to work**
+1. [Link to work]
