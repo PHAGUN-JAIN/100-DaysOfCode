@@ -257,7 +257,7 @@
 2. [Link to work](https://github.com/PHAGUN-JAIN/UCD-Technical)
 
 
-### Day 50:   Feburary 10, Thursday
+### Day 50:   Feburary 10, Wednesday
 
 **Progress**:
 
@@ -266,9 +266,27 @@
 2. [Link to work](https://github.com/PHAGUN-JAIN/UCD-Technical)
 
 
-### Day 51:   Feburary 11, Friday
+### Day 51:   Feburary 11, Thursday
 
-**Progress**:
+**Progress**: learning java
 
 **Link(s) to work**
-1. [Link to work]
+1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice)
+
+
+### Day 52:   Feburary 12, Friday
+
+**Progress**: some java some networking got to know about private and public IPs 
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice)
+
+
+### Day 53:   Feburary 13, Saturday
+
+**Progress**: explored stuff revisited HTML CSS JAVASCRIPT
+
+
+### Day (NOT-COUNTED):   Feburary 14, Sunday
+
+**Progress**: NO-NOTHING got stuck with Jenkins not able to set up as of now 
