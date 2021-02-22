@@ -290,3 +290,12 @@
 ### Day (NOT-COUNTED):   Feburary 14, Sunday
 
 **Progress**: NO-NOTHING got stuck with Jenkins not able to set up as of now 
+
+### Day 54-60: Feb 15, Monday to Feb 21, Sunday
+
+**Link(s) to work**
+1. [Link to work](https://github.com/PHAGUN-JAIN/program-practice)
+2. [Link to work](https://github.com/PHAGUN-JAIN/LEVEL-DESIGNING)
+3. [Link to work](https://github.com/PHAGUN-JAIN/Making-coffee)
+4. [Link to work](https://dev.to/phagunjain/why-is-it-important-to-create-a-default-constructor-explicitly-when-we-create-a-parametrized-constructor-explicitly-3pan)
+5. [Link to work](https://github.com/PHAGUN-JAIN/yoo)
