@@ -309,7 +309,7 @@
 1. [Link to work](https://github.com/Newbyes/Hackerrank/tree/main/PhagunJain)
 
 
-### Day 61: Feb 22, Monday
+### Day 62: Feb 23, Tuesday
 
 **Progress**: JAVA BASICS
 
