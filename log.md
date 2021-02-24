@@ -299,3 +299,19 @@
 3. [Link to work](https://github.com/PHAGUN-JAIN/Making-coffee)
 4. [Link to work](https://dev.to/phagunjain/why-is-it-important-to-create-a-default-constructor-explicitly-when-we-create-a-parametrized-constructor-explicitly-3pan)
 5. [Link to work](https://github.com/PHAGUN-JAIN/yoo)
+
+
+### Day 61: Feb 22, Monday
+
+**Progress**: JAVA BASICS
+
+**Link(s) to work**
+1. [Link to work](https://github.com/Newbyes/Hackerrank/tree/main/PhagunJain)
+
+
+### Day 61: Feb 22, Monday
+
+**Progress**: JAVA BASICS
+
+**Link(s) to work**
+1. [Link to work](https://github.com/Newbyes/Hackerrank/tree/main/PhagunJain)
