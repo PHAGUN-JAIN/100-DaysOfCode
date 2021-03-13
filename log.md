@@ -315,3 +315,13 @@
 
 **Link(s) to work**
 1. [Link to work](https://github.com/Newbyes/Hackerrank/tree/main/PhagunJain)
+
+### Day 63 - 79
+
+**Link(s) to work**
+1. [Link to work](https://github.com/UCD-UPES/event-webinar)
+2. [Link to work](https://github.com/UCD-UPES/hackathon)
+3. [Link to work](https://github.com/PHAGUN-JAIN/CP-playGround)
+4. [Link to work](https://github.com/PHAGUN-JAIN/JavaScript-playGround)
+5. [Link to work](https://github.com/PHAGUN-JAIN/UCD-Technical)
+6. [Link to work](https://github.com/PHAGUN-JAIN/devChallenge)
